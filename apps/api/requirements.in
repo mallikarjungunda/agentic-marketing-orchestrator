@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-sqlalchemy
-psycopg[binary]
-langgraph
-langchain-openai
-httpx
-pytest
